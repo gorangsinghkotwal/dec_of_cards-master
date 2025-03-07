@@ -12,7 +12,7 @@
 
    Open your terminal or command prompt and run:
    ```sh
-   git clone https://github.com/elonmasai7/dec_of_cards.git
+   git clone https://github.com/gorangsinghkotwal/dec_of_cards.git
    ```
 
 2. **Navigate to the Project Directory**
